@@ -1,6 +1,7 @@
 # PPATSPParameters
 
 ## Abstract Paper
+The number of offspring and the population size greatly influence
 the performance of the Plant Propagation Algorithm, a crossoverless
 metaheuristic, when applied the Euclidean traveling salesman
 problem. However, with large volumes of experimental data, a
